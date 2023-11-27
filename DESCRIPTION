@@ -1,0 +1,10 @@
+Package: MapCoordinates
+Type: Package
+Title: Calculating distance between coordinates
+Version: 0.1.0
+Author: Ikram Ait Taleb Naser
+Maintainer: <ikram.aittalebnaser@studenti.unimi.it>
+Description: This package calculate the distance in kilometers between 2 coordinates given their latitudes and longitudes.
+License: --
+Encoding: UTF-8
+LazyData: true
